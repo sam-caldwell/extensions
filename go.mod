@@ -1,3 +1,3 @@
-module github.com/sam-caldwell/extensions/v2
+module github.com/sam-caldwell/extensions
 
 go 1.18
