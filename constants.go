@@ -46,6 +46,9 @@ const (
 	// JPEG - Image file
 	JPEG = ".jpeg"
 
+	// JSON - JavaScript Object Notation
+	JSON = ".json"
+
 	// MKV - Video File
 	MKV = ".mkv"
 
@@ -78,4 +81,10 @@ const (
 
 	// WAV - Audio file
 	WAV = ".wav"
+
+	// YML - Yaml file
+	YML = ".yml"
+
+	// YAML - Yaml file
+	YAML = ".yaml"
 )
